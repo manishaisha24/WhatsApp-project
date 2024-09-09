@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+a{
+    color: black;
+    text-underline-position: none;
+}
+.nav_bar{
+    border: 1px solid red;
+    height: 80px;
+    text-align: right;
+background-color: rgb(201, 232, 139);
+}
+.nav_bar ul li{
+    display: inline-block;
+}
+li{
+    border: 1px soild red;
+    margin-top: 30px;
+    margin-right: 40px;
+}
